@@ -23,5 +23,6 @@ repos:
           (?x)(
                (^|/).?renovate(?:rc)?(?:\.json5?)?$|
                default.json|
-               copier.json
+               copier.json|
+               groupManager.json
           )$

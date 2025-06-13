@@ -10,7 +10,8 @@
       matchUpdateTypes: [
         "digest",
         "minor",
-        "patch"
+        "patch",
+        "pinDigest"
       ]
     }
   ]
